@@ -5,17 +5,17 @@ Proyecto Final de Almacén y Minería de datos minando la base de datos de terro
 #Datos
 https://www.kaggle.com/START-UMD/gtd/data
 
-#Equipo
+#Equipo#
 
 A - Rodrigo Casiano Morales
-B -
+B - Alexis
 C - José Antonio Soní Solchaga
 
 
-#Algoritmos a Utilizar:
+#Algoritmos a Utilizar:#
 
 -Naive-Bayes
-
+-Red Neuronal
 
 #Sistema a Utilizar
 Manejador: PostgresSQL
