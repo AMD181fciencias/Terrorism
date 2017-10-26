@@ -11,10 +11,11 @@ A - Rodrigo Casiano Morales
 B -
 C - José Antonio Soní Solchaga
 
+
 #Algoritmos a Utilizar:
 
 -Naive-Bayes
--
+
 
 #Sistema a Utilizar
 Manejador: PostgresSQL
