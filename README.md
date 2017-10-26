@@ -15,11 +15,11 @@ C - José Antonio Soní Solchaga
 #Algoritmos a Utilizar:#
 
 -Naive-Bayes
--Red Neuronal
+-A priori
 
 #Sistema a Utilizar
 Manejador: PostgresSQL
-Lenguajes: R y Python
+Lenguajes: R, Python y Anaconda 3  
 Procesador: Intel Core i7 6820HQ a 2.7GHz
 RAM: 16GB
 HHD: 1 TB
